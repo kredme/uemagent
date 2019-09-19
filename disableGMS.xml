@@ -1,0 +1,5 @@
+<wap-provisioningdoc>
+  <characteristic version="7.1" type="PowerMgr">
+    <parm name="SUWByPass" value="1" />
+  </characteristic>
+</wap-provisioningdoc>
